@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>All Games Model Predictions</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .note {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Top Model Picks</h1>
+    <a href="index.html">Current Ratings</a>
+    <p class="note">Current Model Record 4-4</p>
+    <table>
+        <script src="top_picks.js"></script>
+        <thead>
+            <tr>
+                <th>Pick</th>
+                <th>Spread</th>
+                <th>Model Spread</th>
+                <th>Advantage</th>
+                <th>Final</th>
+                <th>Spread Result</th>
+                <th>Pick Result</th>
+            </tr>
+        </thead>
+        <tbody id="gameData2">
+            <!-- JavaScript will populate this table with data from All_Games.csv -->
+        </tbody>
+    </table>
+
+    
+</body>
+</html>
