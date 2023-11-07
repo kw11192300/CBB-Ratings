@@ -1,4 +1,4 @@
-fetch('All_Games_2023.csv')
+fetch('1All_Games_2023.csv')
     .then(response => response.text())
     .then(data => {
         const rows = data.trim().split('\n').slice(1); // Skip the header row
