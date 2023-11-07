@@ -1,4 +1,4 @@
-fetch('2022_23_final.csv')
+fetch('2022_23_Final.csv')
     .then(response => response.text())
     .then(data => {
         const rows = data.trim().split('\n').slice(1); // Skip the header row
