@@ -3,7 +3,7 @@ fetch('Model_Best_Bets_2023.csv')
     .then(data => {
         const rows = data.trim().split('\n').slice(1); // Skip the header row
 
-        const tableBody = document.getElementById('gameData2');
+        const tableBody = document.getElementById('toppicks');
 
         rows.forEach(row => {
             const columns = row.split(',');
