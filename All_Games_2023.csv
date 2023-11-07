@@ -1,15 +1,15 @@
-Away,Home,,Predicted Winner,Win Probability,,Predicted Favorite,Model Spread
-Drexel,La Salle,,Drexel,64.0%,,Drexel,-1.4
-Florida Gulf Coast,Indiana,,Indiana,90.5%,,Indiana,-15.3
-Albany,Massachusetts,,Massachusetts,84.5%,,Massachusetts,-12.5
-Stony Brook,St. John's,,St. John's,90.6%,,St. John's,-16.0
-Mount St. Mary's,Maryland,,Maryland,96.2%,,Maryland,-21.0
-North Dakota,Iowa,,Iowa,97.9%,,Iowa,-24.4
-Presbyterian,Vanderbilt,,Vanderbilt,92.8%,,Vanderbilt,-17.8
-Northern Iowa,North Texas,,North Texas,64.1%,,North Texas,-5.8
-UNC Asheville,Michigan,,Michigan,92.7%,,Michigan,-16.2
-Florida A&M,Creighton,,Creighton,98.6%,,Creighton,-26.7
-Purdue Fort Wayne,DePaul,,DePaul,81.2%,,DePaul,-11.2
-Auburn,Baylor,*,Baylor,65.8%,,Baylor,-3.3
-Sacramento St.,Nevada,,Nevada,92.3%,,Nevada,-17.4
-UC Irvine,San Jose St.,,UC Irvine,73.7%,,UC Irvine,-4.3
+Away,Home,Predicted Winner,Win Probability,Predicted Favorite,Model Spread
+Drexel,La Salle,Drexel,64.0%,Drexel,-1.4
+Florida Gulf Coast,Indiana,Indiana,90.5%,Indiana,-15.3
+Albany,Massachusetts,Massachusetts,84.5%,Massachusetts,-12.5
+Stony Brook,St. John's,St. John's,90.6%,St. John's,-16.0
+Mount St. Mary's,Maryland,Maryland,96.2%,Maryland,-21.0
+North Dakota,Iowa,Iowa,97.9%,Iowa,-24.4
+Presbyterian,Vanderbilt,Vanderbilt,92.8%,Vanderbilt,-17.8
+Northern Iowa,North Texas,North Texas,64.1%,North Texas,-5.8
+UNC Asheville,Michigan,Michigan,92.7%,Michigan,-16.2
+Florida A&M,Creighton,Creighton,98.6%,Creighton,-26.7
+Purdue Fort Wayne,DePaul,DePaul,81.2%,DePaul,-11.2
+Auburn*,Baylor*,Baylor,65.8%,Baylor,-3.3
+Sacramento St.,Nevada,Nevada,92.3%,Nevada,-17.4
+UC Irvine,San Jose St.,UC Irvine,73.7%,UC Irvine,-4.3
