@@ -1,0 +1,46 @@
+<html>
+<head>
+    <title>All Games Model Predictions</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .note {
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>All Games Model Predictions</h1>
+    <p class="note">* denotes Neutral Game</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Away</th>
+                <th>Home</th>
+                <th>Predicted Winner</th>
+                <th>Win Probability</th>
+                <th>Predicted Favorite</th>
+                <th>Model Spread</th>
+            </tr>
+        </thead>
+        <tbody id="gameData">
+            <!-- JavaScript will populate this table with data from All_Games.csv -->
+        </tbody>
+    </table>
+
+    <script src="All_Games.js"></script>
+</body>
+</html>
