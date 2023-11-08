@@ -2,7 +2,7 @@
 function createTable(data) {
     const tableContainer = document.getElementById("table-container");
     const table = document.createElement("table");
-    const headers = ["Rank", "Team", "Conf", "Index", "Rating", "Win Probability"];
+    const headers = ["Change","Rank", "Team", "Conf", "W-L", "Rating", "Win Probability"];
 
     // Create table header
     const headerRow = document.createElement("tr");
@@ -28,8 +28,8 @@ function createTable(data) {
     tableContainer.appendChild(table);
 }
 
-// Fetch data from the CSV file (CBB.csv)
-fetch("CBB.csv")
+// Fetch data from the CSV file (CBB1.csv)
+fetch("CBB1.csv")
     .then(response => response.text())
     .then(data => {
         const rows = data.split("\n");
