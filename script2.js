@@ -1,6 +1,6 @@
 // Function to create and populate a table
 function createTable(data) {
-    const tableContainer = document.getElementById("table-container");
+    const tableContainer = document.getElementById("table-container2");
     const table = document.createElement("table");
     const headers = ["Change","Rank", "Team", "Conf", "W-L", "Rating", "Win Probability"];
 
@@ -28,8 +28,8 @@ function createTable(data) {
     tableContainer.appendChild(table);
 }
 
-// Fetch data from the CSV file (CBB1.csv)
-fetch("CBB1.csv")
+// Fetch data from the CSV file (CBB2.csv)
+fetch("CBB2.csv")
     .then(response => response.text())
     .then(data => {
         const rows = data.split("\n");
