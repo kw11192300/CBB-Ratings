@@ -1,9 +1,9 @@
-fetch('3All_Games_2023.csv')
+fetch('4All_Games_2023.csv')
     .then(response => response.text())
     .then(data => {
         const rows = data.trim().split('\n').slice(1); // Skip the header row
 
-        const tableBody = document.getElementById('gameData3');
+        const tableBody = document.getElementById('gameData4');
 
         rows.forEach(row => {
             const columns = row.split(',');
