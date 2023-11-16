@@ -1,0 +1,362 @@
+0,1,Houston,B12,3-0,22.2
+0,2,Kansas,B12,3-0,20.9
+0,3,Gonzaga,WCC,1-0,19.8
+0,4,Arizona,P12,3-0,19.8
+0,5,Duke,ACC,2-1,19.3
+0,6,Purdue,B10,3-0,18.5
+0,7,Tennessee,SEC,3-0,18.5
+0,8,Kentucky,SEC,2-1,16.5
+0,9,Michigan St.,B10,1-2,16.0
+0,10,Baylor,B12,3-0,15.9
+0,11,North Carolina,ACC,2-0,15.3
+0,12,Connecticut,BE,3-0,15.2
+0,13,Michigan,B10,3-0,15.1
+0,14,Alabama,SEC,3-0,14.9
+0,15,Arkansas,SEC,3-0,14.9
+0,16,Creighton,BE,3-0,14.7
+0,17,Memphis,Amer,2-0,14.2
+0,18,Marquette,BE,3-0,14.0
+1,19,Iowa,B10,2-1,13.7
+1,20,Oregon,P12,2-0,13.6
+-2,21,UCLA,P12,3-0,13.5
+0,22,TCU,B12,3-0,13.4
+0,23,Texas,B12,3-0,13.3
+0,24,Illinois,B10,2-1,12.9
+0,25,Texas A&M,SEC,3-0,12.7
+0,26,USC,P12,2-1,12.3
+0,27,Miami FL,ACC,3-0,12.2
+0,28,Virginia,ACC,3-0,12.1
+1,29,San Diego St.,MWC,2-1,11.8
+1,30,Saint Mary's,WCC,1-1,11.7
+1,31,Wisconsin,B10,1-2,11.7
+-3,32,Virginia Tech,ACC,2-1,11.6
+8,33,BYU,B12,3-0,11.6
+-1,34,Texas Tech,B12,2-0,11.4
+-1,35,Maryland,B10,1-2,11.3
+-1,36,Auburn,SEC,1-1,11.1
+-1,37,Villanova,BE,2-1,11.1
+-1,38,Mississippi St.,SEC,3-0,11.1
+-1,39,Colorado,P12,3-0,11.0
+3,40,Ohio St.,B10,2-1,11.0
+-2,41,Utah,P12,2-0,10.8
+-2,42,Iowa St.,B12,3-0,10.7
+-1,43,Providence,BE,3-0,10.4
+0,44,Florida St.,ACC,2-0,10.3
+1,45,Seton Hall,BE,3-0,10.0
+-1,46,Oklahoma,B12,3-0,10.0
+0,47,Clemson,ACC,3-0,9.9
+0,48,Xavier,BE,2-1,9.9
+0,49,LSU,SEC,1-1,9.7
+0,50,N.C. State,ACC,2-0,9.7
+0,51,Indiana,B10,2-0,9.6
+5,52,Nevada,MWC,3-0,9.6
+-1,53,Rutgers,B10,3-1,9.2
+-1,54,Florida Atlantic,Amer,2-0,8.9
+-1,55,Dayton,A10,1-1,8.9
+-1,56,Cincinnati,B12,3-0,8.8
+-1,57,Washington,P12,2-1,8.3
+0,58,SMU,Amer,2-1,7.7
+0,59,St. John's,BE,1-1,7.6
+0,60,Syracuse,ACC,3-0,7.5
+0,61,Kansas St.,B12,2-1,7.4
+0,62,New Mexico,MWC,1-1,7.4
+0,63,Penn St.,B10,3-0,7.1
+0,64,Colorado St.,MWC,3-0,7.0
+0,65,Boise St.,MWC,1-0,7.0
+0,66,West Virginia,B12,2-1,6.9
+12,67,VCU,A10,2-1,6.8
+-1,68,Butler,BE,3-0,6.6
+-1,69,Oklahoma St.,B12,1-1,6.5
+-1,70,San Francisco,WCC,1-1,6.4
+-1,71,Pittsburgh,ACC,3-0,6.4
+-1,72,Furman,SC,1-0,6.3
+-1,73,UCF,B12,1-1,6.2
+-1,74,Florida,SEC,2-1,5.9
+-1,75,Wichita St.,Amer,2-0,5.7
+-1,76,Davidson,A10,1-1,5.7
+-1,77,Missouri,SEC,2-1,5.5
+-1,78,Northwestern,B10,3-0,5.5
+-1,79,UAB,Amer,1-2,5.5
+0,80,Mississippi,SEC,3-0,5.3
+0,81,Wake Forest,ACC,1-1,5.0
+0,82,Stanford,P12,2-1,5.0
+0,83,Washington St.,P12,2-0,4.9
+0,84,Liberty,CUSA,1-0,4.9
+0,85,Akron,MAC,2-0,4.8
+0,86,Drake,MVC,1-0,4.8
+0,87,Arizona St.,P12,1-1,4.8
+0,88,Grand Canyon,WAC,2-0,4.7
+0,89,Nebraska,B10,4-0,4.5
+1,90,Bradley,MVC,3-0,4.3
+1,91,Utah St.,MWC,1-1,4.3
+1,92,Missouri St.,MVC,1-1,4.3
+1,93,Georgia Tech,ACC,2-1,4.1
+1,94,South Carolina,SEC,3-0,4.1
+1,95,Toledo,MAC,3-0,4.0
+1,96,Minnesota,B10,2-0,4.0
+1,97,Saint Louis,A10,2-0,3.9
+1,98,Santa Clara,WCC,3-0,3.8
+1,99,Vermont,AE,1-0,3.8
+1,100,Vanderbilt,SEC,2-1,3.7
+1,101,Yale,Ivy,1-1,3.5
+1,102,North Texas,Amer,2-0,3.5
+1,103,Harvard,Ivy,2-0,3.3
+-14,104,Richmond,A10,2-1,3.2
+1,105,UNLV,MWC,1-1,3.0
+9,106,Louisville,ACC,2-1,3.0
+0,107,Ohio,MAC,1-1,3.0
+0,108,Tulane,Amer,2-0,2.9
+0,109,Saint Joseph's,A10,3-0,2.9
+1,110,St. Bonaventure,A10,1-1,2.7
+1,111,Georgia,SEC,2-1,2.5
+1,112,Kent St.,MAC,1-1,2.5
+1,113,Massachusetts,A10,2-0,2.4
+2,114,UC Irvine,BW,2-1,2.3
+-5,115,Princeton,Ivy,3-0,2.2
+2,116,Notre Dame,ACC,1-1,2.0
+2,117,James Madison,SB,3-0,1.8
+2,118,UNC Greensboro,SC,1-1,1.8
+2,119,UNC Wilmington,CAA,1-0,1.8
+2,120,Hofstra,CAA,0-2,1.7
+-4,121,Georgetown,BE,1-2,1.7
+1,122,Loyola Chicago,A10,1-2,1.7
+1,123,Murray St.,MVC,1-1,1.6
+1,124,Western Kentucky,CUSA,1-1,1.6
+1,125,UMass Lowell,AE,2-0,1.6
+1,126,Colgate,Pat,1-1,1.6
+2,127,George Mason,A10,3-0,1.3
+2,128,Southern Illinois,MVC,1-0,1.3
+3,129,Louisiana Tech,CUSA,0-1,1.0
+4,130,Pepperdine,WCC,2-1,0.8
+4,131,Stephen F. Austin,WAC,1-1,0.7
+-1,132,Delaware,CAA,3-0,0.6
+3,133,Iona,MAAC,1-1,0.6
+3,134,Middle Tennessee,CUSA,2-1,0.6
+11,135,Boston College,ACC,3-0,0.5
+2,136,Northern Iowa,MVC,0-1,0.5
+2,137,Marshall,SB,1-1,0.5
+-5,138,Duquesne,A10,3-1,0.5
+1,139,Eastern Kentucky,ASun,0-0,0.4
+14,140,Charlotte,Amer,2-1,0.4
+0,141,Weber St.,BSky,1-0,0.4
+0,142,Old Dominion,SB,0-2,0.4
+0,143,Temple,Amer,3-0,0.4
+0,144,Georgia St.,SB,1-1,0.3
+0,145,UC Santa Barbara,BW,0-2,0.3
+1,146,Loyola Marymount,WCC,1-1,0.2
+14,147,Fresno St.,MWC,1-1,0.1
+-20,148,East Carolina,Amer,1-1,0.0
+-44,149,South Florida,Amer,1-1,0.0
+-2,150,Montana,BSky,1-1,0.0
+-2,151,South Dakota St.,Sum,0-2,0.0
+-2,152,Bryant,AE,0-2,-0.1
+-2,153,Long Beach St.,BW,1-2,-0.1
+-1,154,Cleveland St.,Horz,2-1,-0.2
+-3,155,DePaul,BE,1-2,-0.2
+-1,156,California,P12,2-1,-0.3
+-1,157,Oakland,Horz,1-2,-0.4
+-1,158,Hawaii,BW,0-0,-0.4
+-1,159,Belmont,MVC,1-1,-0.4
+-1,160,Oral Roberts,Sum,0-2,-0.4
+-1,161,Charleston,CAA,1-1,-0.5
+3,162,Longwood,BSth,1-1,-0.6
+-1,163,George Washington,A10,3-0,-0.7
+-1,164,Florida Gulf Coast,ASun,0-2,-0.8
+-1,165,Wright St.,Horz,0-2,-1.0
+0,166,Drexel,CAA,1-2,-1.0
+0,167,UTEP,CUSA,1-0,-1.0
+1,168,Indiana St.,MVC,1-1,-1.1
+1,169,Chattanooga,SC,2-0,-1.3
+1,170,Louisiana,SB,1-1,-1.5
+1,171,Oregon St.,P12,2-0,-1.5
+2,172,Towson,CAA,2-1,-1.5
+2,173,Northern Kentucky,Horz,0-2,-1.5
+2,174,Abilene Christian,WAC,1-2,-1.6
+3,175,Rhode Island,A10,3-0,-1.7
+3,176,South Alabama,SB,1-1,-1.7
+3,177,Southern Miss,SB,0-1,-1.8
+3,178,Fordham,A10,1-1,-1.8
+3,179,Winthrop,BSth,0-2,-1.9
+-7,180,Cornell,Ivy,2-1,-1.9
+17,181,Rice,Amer,0-2,-1.9
+-14,182,Radford,BSth,1-2,-2.1
+0,183,New Mexico St.,CUSA,0-2,-2.1
+0,184,Penn,Ivy,2-1,-2.1
+0,185,UNC Asheville,BSth,0-2,-2.2
+-9,186,Seattle,WAC,2-1,-2.3
+34,187,Tennessee St.,OVC,1-0,-2.3
+-1,188,UC Davis,BW,2-1,-2.4
+0,189,Western Carolina,SC,2-0,-2.5
+0,190,Wofford,SC,1-1,-2.5
+0,191,Texas St.,SB,1-2,-2.5
+0,192,Cal Baptist,WAC,1-0,-2.6
+0,193,Appalachian St.,SB,0-2,-2.6
+0,194,Gardner Webb,BSth,0-2,-2.7
+0,195,Norfolk St.,MEAC,1-0,-2.7
+0,196,Sam Houston St.,CUSA,1-2,-2.8
+0,197,McNeese St.,Slnd,1-0,-2.8
+1,198,Morehead St.,OVC,1-2,-2.9
+1,199,Samford,SC,0-2,-2.9
+1,200,Coastal Carolina,SB,0-0,-2.9
+1,201,Illinois Chicago,MVC,2-1,-3.0
+1,202,Northeastern,CAA,1-2,-3.0
+2,203,Wyoming,MWC,1-0,-3.1
+2,204,San Diego,WCC,1-1,-3.1
+3,205,Marist,MAAC,2-0,-3.2
+3,206,Cal St. Fullerton,BW,0-1,-3.3
+3,207,Lipscomb,ASun,1-2,-3.3
+3,208,Portland St.,BSky,2-0,-3.3
+-2,209,Illinois St.,MVC,1-1,-3.4
+2,210,Detroit Mercy,Horz,0-3,-3.4
+2,211,Brown,Ivy,0-3,-3.5
+2,212,Ball St.,MAC,1-0,-3.5
+2,213,Tulsa,Amer,2-0,-3.6
+2,214,North Dakota St.,Sum,1-2,-3.6
+2,215,Southern Utah,WAC,0-2,-3.7
+2,216,Mercer,SC,1-1,-3.7
+2,217,Howard,MEAC,2-2,-3.7
+-14,218,Saint Peter's,MAAC,1-2,-3.9
+1,219,La Salle,A10,3-0,-3.9
+2,220,Montana St.,BSky,0-1,-4.0
+-33,221,Utah Valley,WAC,1-1,-4.0
+-36,222,Pacific,WCC,1-2,-4.0
+0,223,Buffalo,MAC,0-2,-4.2
+0,224,Jacksonville St.,CUSA,0-2,-4.2
+0,225,Arkansas St.,SB,1-2,-4.2
+0,226,Eastern Washington,BSky,0-3,-4.4
+1,227,Northern Illinois,MAC,1-1,-4.5
+3,228,Quinnipiac,MAAC,1-1,-4.7
+3,229,San Jose St.,MWC,1-1,-4.8
+3,230,Utah Tech,WAC,1-1,-4.9
+3,231,William & Mary,CAA,1-1,-4.9
+3,232,Purdue Fort Wayne,Horz,2-0,-4.9
+3,233,UT Arlington,WAC,1-0,-4.9
+3,234,Troy,SB,0-2,-5.1
+-6,235,Canisius,MAAC,1-2,-5.1
+2,236,South Dakota,Sum,1-1,-5.1
+2,237,Mount St. Mary's,MAAC,1-1,-5.1
+2,238,Monmouth,CAA,1-1,-5.1
+2,239,Bellarmine,ASun,0-3,-5.2
+2,240,New Hampshire,AE,1-1,-5.2
+2,241,Youngstown St.,Horz,0-2,-5.2
+-15,242,Nicholls St.,Slnd,1-2,-5.4
+1,243,St. Thomas,Sum,1-1,-5.4
+1,244,Sacred Heart,NEC,1-1,-5.4
+1,245,Campbell,CAA,1-2,-5.4
+-16,246,Portland,WCC,2-1,-5.5
+0,247,Niagara,MAAC,0-2,-5.5
+0,248,Bowling Green,MAC,2-1,-5.5
+0,249,Rider,MAAC,0-2,-5.6
+0,250,Navy,Pat,0-2,-5.6
+0,251,UC San Diego,BW,2-0,-5.6
+0,252,UMBC,AE,0-2,-5.6
+0,253,Little Rock,OVC,1-1,-5.7
+0,254,Lehigh,Pat,0-3,-5.7
+0,255,Fairfield,MAAC,0-2,-5.7
+0,256,UC Riverside,BW,0-2,-5.7
+0,257,Tarleton St.,WAC,1-2,-5.8
+3,258,FIU,CUSA,1-3,-5.9
+-1,259,Queens,ASun,1-2,-5.9
+-1,260,Texas Southern,SWAC,0-2,-6.0
+-1,261,Stony Brook,CAA,0-3,-6.1
+0,262,Milwaukee,Horz,0-2,-6.1
+0,263,Stetson,ASun,0-2,-6.1
+0,264,Robert Morris,Horz,0-2,-6.2
+1,265,Wagner,NEC,0-2,-6.2
+1,266,Boston University,Pat,0-3,-6.4
+1,267,Air Force,MWC,1-2,-6.6
+-3,268,Loyola MD,Pat,1-2,-6.6
+0,269,Northern Colorado,BSky,0-1,-6.7
+10,270,Binghamton,AE,1-2,-6.8
+-1,271,Jacksonville,ASun,1-1,-6.8
+0,272,East Tennessee St.,SC,0-2,-7.1
+0,273,Tennessee Tech,OVC,0-3,-7.2
+-3,274,Merrimack,NEC,1-2,-7.2
+-1,275,Sacramento St.,BSky,0-2,-7.3
+-1,276,High Point,BSth,0-2,-7.3
+-1,277,Kennesaw St.,ASun,0-1,-7.3
+-1,278,Tennessee Martin,OVC,0-1,-7.3
+-1,279,Cal St. Bakersfield,BW,1-2,-7.4
+-1,280,Presbyterian,BSth,2-0,-7.4
+0,281,New Orleans,Slnd,0-0,-7.5
+1,282,Hampton,CAA,0-2,-7.6
+1,283,American,Pat,1-2,-7.6
+1,284,SIU Edwardsville,OVC,0-2,-7.7
+1,285,Georgia Southern,SB,0-3,-7.7
+1,286,North Alabama,ASun,1-1,-7.9
+19,287,USC Upstate,BSth,1-2,-8.0
+0,288,Grambling St.,SWAC,0-1,-8.0
+3,289,Denver,Sum,2-1,-8.1
+-1,290,North Florida,ASun,1-1,-8.2
+-1,291,Army,Pat,0-3,-8.2
+-1,292,Prairie View A&M,SWAC,1-2,-8.4
+0,293,Miami OH,MAC,0-2,-8.5
+0,294,Lafayette,Pat,0-3,-8.5
+0,295,Southern,SWAC,1-2,-8.6
+0,296,Jackson St.,SWAC,0-4,-8.6
+0,297,UMKC,Sum,0-1,-8.6
+6,298,Fairleigh Dickinson,NEC,2-1,-8.6
+-1,299,Manhattan,MAAC,1-1,-8.7
+-1,300,North Carolina Central,MEAC,0-2,-8.7
+-1,301,Eastern Michigan,MAC,1-2,-8.7
+-1,302,Western Michigan,MAC,0-3,-8.7
+-1,303,UTSA,Amer,1-2,-8.7
+-1,304,The Citadel,SC,0-3,-8.7
+0,305,Cal St. Northridge,BW,2-1,-8.8
+13,306,Evansville,MVC,2-0,-8.9
+1,307,Dartmouth,Ivy,0-2,-9.0
+1,308,Le Moyne,NEC,0-2,-9.0
+1,309,Louisiana Monroe,SB,1-1,-9.0
+1,310,North Dakota,Sum,1-1,-9.2
+1,311,Southern Indiana,OVC,0-3,-9.2
+1,312,Texas A&M Corpus Chris,Slnd,0-1,-9.3
+-6,313,Southeast Missouri St.,OVC,0-3,-9.3
+0,314,Holy Cross,Pat,1-1,-9.5
+0,315,Nebraska Omaha,Sum,0-2,-9.5
+0,316,Austin Peay,ASun,0-1,-9.5
+0,317,Albany,AE,1-2,-9.7
+0,318,Elon,CAA,1-2,-9.8
+1,319,Bucknell,Pat,1-3,-9.9
+1,320,Columbia,Ivy,0-2,-9.9
+1,321,Alcorn St.,SWAC,0-2,-10.1
+1,322,Maine,AE,0-2,-10.1
+1,323,Siena,MAAC,0-2,-10.1
+9,324,Northern Arizona,BSky,1-2,-10.2
+0,325,UT Rio Grande Valley,WAC,0-2,-10.2
+0,326,Central Connecticut,NEC,0-2,-10.4
+0,327,Lamar,Slnd,1-1,-10.4
+0,328,Texas A&M Commerce,Slnd,0-4,-10.4
+-47,329,Southeastern Louisiana,Slnd,0-2,-10.8
+6,330,Central Michigan,MAC,1-3,-10.9
+-2,331,VMI,SC,0-2,-11.0
+-2,332,Idaho St.,BSky,0-2,-11.3
+-2,333,Valparaiso,MVC,1-1,-11.5
+-2,334,Western Illinois,OVC,0-2,-11.5
+-1,335,Charleston Southern,BSth,0-1,-11.8
+-1,336,Alabama St.,SWAC,0-2,-11.8
+0,337,Stonehill,NEC,1-3,-12.2
+16,338,Morgan St.,MEAC,0-2,-12.3
+10,339,LIU,NEC,0-3,-12.7
+-2,340,Central Arkansas,ASun,0-2,-12.7
+-2,341,Bethune Cookman,SWAC,0-1,-12.8
+-1,342,Eastern Illinois,OVC,0-3,-12.8
+-3,343,Florida A&M,SWAC,0-3,-13.0
+-2,344,Chicago St.,ind,1-3,-13.3
+-2,345,Saint Francis,NEC,0-4,-13.4
+-2,346,Cal Poly,BW,0-2,-13.6
+-1,347,NJIT,AE,0-2,-13.7
+-3,348,Maryland Eastern Shore,MEAC,0-2,-13.9
+-2,349,Northwestern St.,Slnd,0-2,-13.9
+-2,350,Alabama A&M,SWAC,0-1,-13.9
+-1,351,Arkansas Pine Bluff,SWAC,1-1,-13.9
+-1,352,North Carolina A&T,CAA,0-3,-13.9
+-1,353,Idaho,BSky,0-2,-14.0
+-1,354,Incarnate Word,Slnd,0-2,-14.1
+0,355,South Carolina St.,MEAC,1-1,-14.8
+1,356,Coppin St.,MEAC,0-4,-15.0
+-1,357,IUPUI,Horz,1-1,-15.1
+0,358,Lindenwood,OVC,0-2,-15.4
+0,359,Green Bay,Horz,0-2,-15.4
+0,360,Delaware St.,MEAC,0-3,-15.7
+0,361,Houston Christian,Slnd,0-2,-16.1
+0,362,Mississippi Valley St.,SWAC,0-3,-18.6
