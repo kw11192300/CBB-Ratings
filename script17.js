@@ -29,7 +29,7 @@ function createTable(data) {
 }
 
 // Fetch data from the CSV file (CBB17.csv)
-fetch("CBB16.csv")
+fetch("CBB17.csv")
     .then(response => response.text())
     .then(data => {
         const rows = data.split("\n");
