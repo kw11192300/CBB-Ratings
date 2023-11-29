@@ -28,7 +28,7 @@ function createTable(data) {
     tableContainer.appendChild(table);
 }
 
-// Fetch data from the CSV file (22CBB.csv)
+// Fetch data from the CSV file (CBB22.csv)
 fetch("CBB21.csv")
     .then(response => response.text())
     .then(data => {
